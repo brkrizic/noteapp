@@ -9,3 +9,8 @@ Search Notes: Easily find notes using the search functionality.
 Categorize Notes: Organize your notes into categories for better management.
 Offline Support: Access and manage your notes even without an internet connection.
 Sync Across Devices: Sync your notes across multiple devices (if implemented).
+
+Technologies Used
+React Native: For building the mobile application.
+React Navigation: For navigating between screens.
+AsyncStorage: For storing data locally on the device.
